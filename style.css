@@ -129,7 +129,7 @@ section #text span {
     display: inline-block;
     padding: 8px 30px;
     background: linear-gradient(to left, #fc6767,#ec008c);
-    color: var(--primary);
+    color: #ffffff;
     font-size: 1.2em;
     font-weight: 500;
     letter-spacing: 2px;
